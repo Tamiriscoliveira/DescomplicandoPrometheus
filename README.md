@@ -1,4 +1,5 @@
-<h1 align="center">  # Curso Descomplicando Prometheus </h1>
+<h1 align="center">  # Curso Descomplicando Prometheus![prometheus-logo-3](https://user-images.githubusercontent.com/13388615/190255450-34eff0e8-22c3-4e7d-b86f-50aa98d17225.png)
+ </h1>
 
 
 
