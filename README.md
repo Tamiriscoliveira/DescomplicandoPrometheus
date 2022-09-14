@@ -1,1 +1,10 @@
-Repositório criado para evolução do curso descomplicando prometheus da linuxtips
+# Curso Descomplicando Prometheus
+
+Minha evolução no sistema de monitoramento prometheus sendo realizado com a 
+monitoria do Jeferson Fernando da Linuxtips.
+
+```
+
+## Contributing
+
+Tamiris Coutinho
