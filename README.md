@@ -38,12 +38,23 @@ Ele surgiu em 2012 e foi escrito na linguagem GO, pelos engenheiros da SoundClou
 Uma dos principais ponto do prometheus é que ele vai até o alvo para coletar as métricas,e depois ele guarda no banco de dados timeseries. 
 Mas também é possivel que ele receba essas informações atráves do PUSH GATEWAY.
 
-Banco de Dados Temporais
 
+
+## Prometheus Monitoring Architecture
+
+Temos três componentes principais no prometheus que são: Retrieval, Storage e PromQL
+
+RETRIEVAL é o que coleta as métricas e armazena no Storage é também o que conversa diretamente com o Service Discovery para descoberta de novos serviços
+disponiveis que ainda não estão sendo coletados.
+
+STORAGE é o bando de dados de séries temporais que armazena as métricas coletadas.
+
+Banco de Dados Temporais
 Um banco de dados de séries temporais(Time series database) é um sistema usado para armazenar séries temporais através de 
 pares de tempo e valor associados.  Em alguns campos, as séries temporais podem ser chamadas de perfis, curvas, traços ou ainda, tendências. 
 
-## Prometheus Monitoring Architecture
+PROMQL é a linguagem para consulta responsável por executar as queries do usuário. Ela não é parecida com o SQL.
+
 
 ![Prometheus](https://user-images.githubusercontent.com/13388615/190471394-c5fbb82a-bcc8-486f-a2e9-9c72993874d9.png)
 
