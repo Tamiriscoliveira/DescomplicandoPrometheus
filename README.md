@@ -3,4 +3,4 @@
 Minha evolução no sistema de monitoramento prometheus sendo realizado com a 
 monitoria do Jeferson Fernando da Linuxtips.
 
-![th](https://user-images.githubusercontent.com/13388615/190255209-fdb7b846-83e5-4f57-8408-8a86dbe3bb80.jpeg)
+![Prometheus](https://user-images.githubusercontent.com/13388615/190471394-c5fbb82a-bcc8-486f-a2e9-9c72993874d9.png)
