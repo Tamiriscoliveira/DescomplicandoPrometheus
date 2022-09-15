@@ -44,6 +44,8 @@ MÉTRICAS são informações retiradas dos logs que juntos é possivel mensurar 
 
 TRACES é a maneira de rastrear todo o fluxo de informações,coletando parâmetros e agregando os mesmos. 
 
+Podemos incluir também os EVENTOS para sabemos o que esta acontecendo e os DASHBOARDS para a visualização.
 
 ![meio-2](https://user-images.githubusercontent.com/13388615/190480508-bde6ef5a-700a-41e9-be78-2a58b0016c21.jpg)
+
 
