@@ -35,5 +35,15 @@ O que seria a OBSERVABILIDADE é uma capacidade que tem de analizar, explorar e 
 Entendendo assim os padrões e extraindo dados sobre o funcionamento, gerando alertas, dashboards que ajudam a solucionar e resolver incidentes 
 de performance, disponibilidade e segurança, melhorando a experiência do usuário final.
 
+
+A Observabilidade esta apoiada em três pilares: LOGS, MÉTRICAS E TRACES
+
+LOGS são os registros brutos de alguma ocorrẽncia dentro do sistema, ele é um facilitador na identificação e na investigação.
+
+MÉTRICAS são informações retiradas dos logs que juntos é possivel mensurar atráves de relatórios ou dashboards
+
+TRACES é a maneira de rastrear todo o fluxo de informações,coletando parâmetros e agregando os mesmos. 
+
+
 ![meio-2](https://user-images.githubusercontent.com/13388615/190480508-bde6ef5a-700a-41e9-be78-2a58b0016c21.jpg)
 
