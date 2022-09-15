@@ -29,4 +29,11 @@ pares de tempo e valor associados.  Em alguns campos, as séries temporais podem
 ![Prometheus](https://user-images.githubusercontent.com/13388615/190471394-c5fbb82a-bcc8-486f-a2e9-9c72993874d9.png)
 
 
+Além de podemos ir além do monitoramento tradicional e expandir para o conceito de observabilidade.
+
+O que seria a OBSERVABILIDADE é uma capacidade que tem de analizar, explorar e coletar métricas de ambientes descentralizados ou em nuvem. 
+Entendendo assim os padrões e extraindo dados sobre o funcionamento, gerando alertas, dashboards que ajudam a solucionar e resolver incidentes 
+de performance, disponibilidade e segurança, melhorando a experiência do usuário final.
+
+![meio-2](https://user-images.githubusercontent.com/13388615/190480508-bde6ef5a-700a-41e9-be78-2a58b0016c21.jpg)
 
