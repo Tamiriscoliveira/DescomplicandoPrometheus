@@ -3,6 +3,12 @@
 Minha evolução no sistema de monitoramento prometheus sendo realizado com a 
 monitoria do Jeferson Fernando da Linuxtips.
 
+## Porque devemos Monitorar?
+
+Devemos monitorar para saber o que acontece na infraestrutura, na aplicação, no serviço em tempo real. Para caso ocorra alguma falha ou anomalia
+as pessoas responsáveis, sejam notificadas com o máximo de informação para avaliar e fazer o troubleshooting para resolução adequada.
+
+
 ## Introdução
 
 Prometheus é um sistema de captura e armazenamento de métricas, com a facilidade da integração com outros sistemas.
@@ -20,3 +26,6 @@ pares de tempo e valor associados.
 Em alguns campos, as séries temporais podem ser chamadas de perfis, curvas, traços ou ainda, tendências. 
 
 ![Prometheus](https://user-images.githubusercontent.com/13388615/190471394-c5fbb82a-bcc8-486f-a2e9-9c72993874d9.png)
+
+
+
