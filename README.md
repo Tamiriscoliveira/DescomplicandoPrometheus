@@ -46,7 +46,7 @@ Temos três componentes principais no prometheus que são: Retrieval, Storage e 
 RETRIEVAL é o que coleta as métricas e armazena no Storage é também o que conversa diretamente com o Service Discovery para descoberta de novos serviços
 disponiveis que ainda não estão sendo coletados.
 
-STORAGE é o bando de dados de séries temporais que armazena as métricas coletadas.
+STORAGE é o banco de dados de séries temporais que armazena as métricas coletadas.
 
 Banco de Dados Temporais
 Um banco de dados de séries temporais(Time series database) é um sistema usado para armazenar séries temporais através de 
